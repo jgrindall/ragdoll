@@ -1,0 +1,23 @@
+#root{
+    width: 100%;
+    height: 100%;
+}
+
+.app {
+    background-color: #4a4c64;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+.app-header{
+    height:60px;
+    font-size: larger;
+    background: white;
+}
+
+.ragDoll{
+    width:100%;
+    height: calc(100% - 60px);
+    background-color: #4a4c64;
+}
